@@ -1,0 +1,1 @@
+andRealPlayer is a multi-purpose media player which will play all type of media files. Also streaming of media is also possible with this player.
